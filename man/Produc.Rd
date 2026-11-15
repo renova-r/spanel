@@ -9,7 +9,7 @@
 data(Produc)
 }
 \description{
-\itemize{
+\describe{
 \item{state}{the state}
 \item{year}{the year}
 \item{pcap}{private capital stock}

@@ -4,12 +4,12 @@
 \alias{span}
 \title{method}
 \usage{
-span(x, ...)
+span(y, ...)
 }
 \arguments{
-\item{x}{a numeric design matrix for the model.}
+\item{y}{the object used for method dispatch (a formula, or the response vector).}
 
-\item{...}{not used}
+\item{...}{further arguments passed to methods}
 }
 \description{
 method

@@ -6,7 +6,7 @@
 NULL
 #' US States Production
 #'
-#' \itemize{
+#' \describe{
 #' \item{state}{the state}
 #' \item{year}{the year}
 #' \item{pcap}{private capital stock}
@@ -187,10 +187,10 @@ hausman<-function(fixed,random){
 #' method
 #'
 #' @author Zaghdoudi Taha
-#' @param x a numeric design matrix for the model.
-#' @param ... not used
+#' @param y the object used for method dispatch (a formula, or the response vector).
+#' @param ... further arguments passed to methods
 #' @export
-span<- function(x,...){UseMethod("span") }
+span<- function(y,...){UseMethod("span") }
 
 
 

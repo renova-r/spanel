@@ -1,15 +1,18 @@
 Package: spanel
 Type: Package
 Title: Spatial Panel Data Models
-Version: 0.1
-Date: 2015-06-01
-Author: Taha Zaghdoudi
+Version: 0.1.9001
+Author: Taha Zaghdoudi [aut, cre]
 Maintainer: Taha Zaghdoudi <zedtaha@gmail.com>
+Authors@R: person(given = "Taha", family = "Zaghdoudi", role = c("aut", "cre"),
+    email = "zedtaha@gmail.com")
 Description: Fit the spatial panel data models: the fixed effects, random
     effects and between models.
+    Compatibility updates by Renova.
 License: GPL-3
 LazyData: TRUE
 Depends: R (>= 2.12.0)
+Imports: stats
 Packaged: 2015-06-01 15:32:38 UTC; Taha
 NeedsCompilation: no
 Repository: CRAN
