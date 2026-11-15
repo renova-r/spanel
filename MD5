@@ -1,0 +1,12 @@
+8e15fb8785328fdd581e3b59b87d263a *DESCRIPTION
+23fe35c717926428275858f22cf09ff8 *NAMESPACE
+02b68e852af4a27e3194b7d90f73fb0c *R/spanel.R
+150e70691e3c857411b84ccec30f1ddc *data/Produc.rda
+3422174c1f75ed2398a4f1690c8c3ee4 *data/usaww.rda
+10601a325a4b7c004a8ac4fe86fc91ab *man/Produc.Rd
+9f31d720e611297fe4a3869c5c5f6cbe *man/hausman.Rd
+3b6196862fadb8be4d2c1f7bcb3444f9 *man/span.Rd
+7932b53f7e96546a364f7b920d9b6f77 *man/span.formula.Rd
+2cbc3aa9c91370ca0187e30224704435 *man/spanel-package.Rd
+622e79d76dbeb67591de52da635732f4 *man/summary.span.Rd
+afeceb0a9f06a589e9598890281611da *man/usaww.Rd
